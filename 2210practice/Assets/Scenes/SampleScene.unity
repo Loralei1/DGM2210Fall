@@ -396,7 +396,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1078309899}
-  m_LocalRotation: {x: 0.5069653, y: -0.49564475, z: 0.45706922, w: 0.5370385}
+  m_LocalRotation: {x: 0.5069656, y: -0.49564433, z: 0.45706883, w: 0.53703886}
   m_LocalPosition: {x: 1.3756642, y: 8.565563, z: 16.954988}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -845,6 +845,7 @@ GameObject:
   - component: {fileID: 2092618397}
   - component: {fileID: 2092618396}
   - component: {fileID: 2092618399}
+  - component: {fileID: 2092618400}
   m_Layer: 0
   m_Name: Cube
   m_TagString: Untagged
@@ -930,6 +931,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a70fb7f5deab53347aec116139dfe8be, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  controller: {fileID: 0}
+  controller: {fileID: 2092618400}
   MovePattern: {fileID: 11400000, guid: df769474cf018264b965073d242a78f3, type: 2}
   Player: {fileID: 11400000, guid: 764675e1b0599a343976eeaadac926d1, type: 2}
+--- !u!143 &2092618400
+CharacterController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2092618394}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Height: 1
+  m_Radius: 0.5
+  m_SlopeLimit: 45
+  m_StepOffset: 0.3
+  m_SkinWidth: 0.08
+  m_MinMoveDistance: 0.001
+  m_Center: {x: 0, y: 0, z: 0}

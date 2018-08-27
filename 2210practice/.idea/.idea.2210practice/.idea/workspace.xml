@@ -11,11 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MoveCharacter.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MoveCharacter.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/MoveCharacter.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <marker date="1535396077080" expanded="false" signature="6:78" ph="..." />
                 <marker date="1535396077080" expanded="true" signature="123:400" ph="{...}" />
@@ -68,7 +68,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JumpInput.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="JumpInput.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/JumpInput.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
@@ -175,12 +175,12 @@
       <updated>1535395889532</updated>
       <workItem from="1535395891874" duration="27000" />
       <workItem from="1535395948009" duration="11000" />
-      <workItem from="1535395982455" duration="987000" />
+      <workItem from="1535395982455" duration="2190000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1025000" />
+    <option name="totallyTimeSpent" value="2228000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -240,6 +240,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MoveCharacter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <marker date="1535396077080" expanded="false" signature="6:78" ph="..." />
+            <marker date="1535396077080" expanded="true" signature="123:400" ph="{...}" />
+            <marker date="1535396077080" expanded="true" signature="257:318" ph="{...}" />
+            <marker date="1535396077080" expanded="true" signature="338:396" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/InputBase.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -284,19 +297,6 @@
             <marker date="1535396706138" expanded="false" signature="6:78" ph="..." />
             <marker date="1535396706138" expanded="true" signature="134:313" ph="{...}" />
             <marker date="1535396706138" expanded="true" signature="243:306" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/MoveCharacter.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <marker date="1535396077080" expanded="false" signature="6:78" ph="..." />
-            <marker date="1535396077080" expanded="true" signature="123:400" ph="{...}" />
-            <marker date="1535396077080" expanded="true" signature="257:318" ph="{...}" />
-            <marker date="1535396077080" expanded="true" signature="338:396" ph="{...}" />
           </folding>
         </state>
       </provider>
