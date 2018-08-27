@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f03d7be3512c7a4b9b606c60635dc7e, type: 3}
+  m_Name: NormalMovePattern
+  m_EditorClassIdentifier: 
+  speed: 6
+  jumpSpeed: 8
+  gravity: 10
+  InputX: {fileID: 11400000, guid: c8db0404113afd343a6926049eb24061, type: 2}
+  InputZ: {fileID: 11400000, guid: c61ea33be73322148a75205b8adfb98a, type: 2}
+  JumpInput: {fileID: 11400000, guid: 20b48c141b3b3bb4ab65ef39ce596279, type: 2}
