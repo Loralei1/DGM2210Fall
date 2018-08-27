@@ -4,6 +4,7 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+Assets/Bolt/
 
 # Visual Studio cache directory
 .vs/
@@ -30,6 +31,10 @@ ExportedObj/
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
+
+# Substance Painter
+*.sbs
+*.sbsar
 
 # Builds
 *.apk
