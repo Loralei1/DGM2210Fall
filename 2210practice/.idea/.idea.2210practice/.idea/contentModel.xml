@@ -11,6 +11,7 @@
         <e p="InputZ.cs" t="Include" />
         <e p="JumpInput.cs" t="Include" />
         <e p="MoveCharacter.cs" t="Include" />
+        <e p="MoveControl.cs" t="Include" />
         <e p="MovePattern.cs" t="Include" />
         <e p="Player.cs" t="Include" />
       </e>
