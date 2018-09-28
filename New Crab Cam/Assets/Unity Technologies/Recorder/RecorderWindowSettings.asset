@@ -56,14 +56,14 @@ MonoBehaviour:
   m_DurationMode: 0
   m_SynchFrameRate: 1
   m_BaseFileName:
-    m_Pattern: image_<0000>.<ext>
+    m_Pattern: crab_<0000>.<ext>
   m_DestinationPath:
-    m_root: 1
-    m_leaf: Recordings
+    m_root: 0
+    m_leaf: C:/Users/msear/Documents/CrabCamPnG
   m_InputsSettings:
     m_InputsSettingsAssets:
     - {fileID: 114242819641806540}
     ownerRecorderSettingsAssetId: ecc66f8996e6b2648acffb3c4082ca79
   m_RecorderTypeName: UnityEngine.Recorder.ImageRecorder, Assembly-CSharp, Version=0.0.0.0,
     Culture=neutral, PublicKeyToken=null
-  m_OutputFormat: 2
+  m_OutputFormat: 0
