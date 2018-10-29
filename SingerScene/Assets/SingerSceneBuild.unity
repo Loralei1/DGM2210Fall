@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44956237, g: 0.49963707, b: 0.575671, a: 1}
+  m_IndirectSpecularColor: {r: 0.2807204, g: 0.26291355, b: 0.208309, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -464,7 +464,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 049efe18637988f4eb1aad85a4680302, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -22.43
+      value: -66.36
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 049efe18637988f4eb1aad85a4680302, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5181,7 +5181,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 17
-  m_LocalEulerAnglesHint: {x: 44.222004, y: 269.685, z: 205.67699}
+  m_LocalEulerAnglesHint: {x: -6.3190002, y: 278.722, z: 189.62599}
 --- !u!95 &444221226
 Animator:
   serializedVersion: 3
@@ -7094,7 +7094,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 584810994}
-  m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+  m_LocalRotation: {x: 0, y: 0.7082446, z: 0, w: 0.7059671}
   m_LocalPosition: {x: -3.49, y: -4.73, z: -1.8}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -11153,7 +11153,7 @@ Light:
   m_Enabled: 1
   serializedVersion: 8
   m_Type: 1
-  m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
+  m_Color: {r: 0.52205884, g: 0.42548326, b: 0.33780277, a: 1}
   m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
@@ -12114,7 +12114,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 049efe18637988f4eb1aad85a4680302, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -12.17
+      value: -56.1
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 049efe18637988f4eb1aad85a4680302, type: 3}
       propertyPath: m_LocalPosition.z
@@ -12379,7 +12379,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 049efe18637988f4eb1aad85a4680302, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.97
+      value: -45.9
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 049efe18637988f4eb1aad85a4680302, type: 3}
       propertyPath: m_LocalPosition.z
@@ -16972,7 +16972,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 049efe18637988f4eb1aad85a4680302, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 8.370001
+      value: -35.559998
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 049efe18637988f4eb1aad85a4680302, type: 3}
       propertyPath: m_LocalPosition.z
@@ -17085,7 +17085,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_BindingMode: 1
-  m_FollowOffset: {x: -7.6399994, y: -5.8599997, z: -7.650011}
+  m_FollowOffset: {x: -17.283684, y: -5.8599997, z: -7.650011}
   m_XDamping: 1
   m_YDamping: 1
   m_ZDamping: 1
@@ -21248,8 +21248,8 @@ Light:
   m_Type: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 10
-  m_Range: 56.989002
-  m_SpotAngle: 40.945942
+  m_Range: 86.785324
+  m_SpotAngle: 14.295615
   m_CookieSize: 10
   m_Shadows:
     m_Type: 0
@@ -21265,7 +21265,7 @@ Light:
   m_RenderMode: 0
   m_CullingMask:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 4294967295
   m_Lightmapping: 4
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -21279,13 +21279,13 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1882373965}
-  m_LocalRotation: {x: 0.64851874, y: -0.2818217, z: -0.2818217, w: 0.64851874}
-  m_LocalPosition: {x: 22.8, y: 21.2, z: -4.1}
+  m_LocalRotation: {x: 0.6376888, y: -0.30553725, z: -0.30553725, w: 0.6376888}
+  m_LocalPosition: {x: 54, y: 42.9, z: -1.8}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 20
-  m_LocalEulerAnglesHint: {x: 136.976, y: 89.99999, z: 89.99999}
+  m_LocalEulerAnglesHint: {x: 141.20099, y: 89.99999, z: 89.99999}
 --- !u!1 &1884100894
 GameObject:
   m_ObjectHideFlags: 0
